@@ -2,6 +2,9 @@
 # Mac
 .DS_Store
 
+# Compiled binary addons
+/dist
+
 # Dependency directory
 node_modules
 
