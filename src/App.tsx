@@ -1,10 +1,7 @@
 import React from 'react';
 import { Provider } from 'react-redux';
-import image from './img/webpack.png'
-import Counter from './Counter';
+import Counter from './components/Counter';
 import store from './store';
-
-import styles from './App.css';
 
  const App = () => {
     return(
